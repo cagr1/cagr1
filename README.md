@@ -5,8 +5,15 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Engineer;Legacy+ERP+Modernization+to+Web;Scalable+Architecture+%7C+Performance+%7C+UX" />
+ <strong>Backend-Focused Full-Stack Engineer</strong><br/>
+  Legacy ERP Modernization · Scalable Architecture · Performance-Driven Systems
 </p>
+
+<p align="center">
+  📍 Ecuador · 🌐 <a href="https://www.carlosgallardo.dev">carlosgallardo.dev</a>
+</p>
+
+
 
 <!-- Visitors -->
 <p align="center">
@@ -26,8 +33,6 @@ I work at the intersection of **engineering, performance, and UX**, building sys
 - Performance-driven backend design
 - Data automation & analytics
 
-📍 Ecuador  
-🌐 Portfolio: https://www.carlosgallardo.dev
 
 ---
 
@@ -64,25 +69,7 @@ I work at the intersection of **engineering, performance, and UX**, building sys
 ---
 
 
-## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagr1&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagr1&theme=transparent" />
-</p>
-
----
-
-## Top skills
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagr1&layout=compact&theme=transparent" />
-</p>
-
----
 
 ## Connect with me
 
