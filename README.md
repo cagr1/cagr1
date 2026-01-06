@@ -5,7 +5,7 @@
 
 <!-- Typing intro -->
 <p align="center">
- <strong>Backend-Focused Full-Stack Engineer</strong><br/>
+ <strong>Senior Software Engineer (Backend-Focused)</strong><br/>
   Legacy ERP Modernization · Scalable Architecture · Performance-Driven Systems
 </p>
 
@@ -24,48 +24,63 @@
 
 ## About me
 
-Full-Stack Engineer **focused on backend and architecture**, specialized in **modernizing legacy enterprise systems** into scalable, high-performance web platforms.
+Senior Software Engineer **focused on backend and system architecture**, specialized in **modernizing legacy enterprise systems** into scalable, high-performance web platforms.
 
-I work at the intersection of **engineering, performance, and UX**, building systems that solve real business problems—not demos.
+I design and deliver systems where **performance, maintainability, and business impact** matter more than trends. My experience includes end-to-end modernization of ERP platforms, API-driven architectures, and real-time dashboards used in production environments.
 
-- Legacy ERP modernization (WinForms → Web)
-- API-first architectures & dashboards
-- Performance-driven backend design
-- Data automation & analytics
-
+- Legacy ERP modernization (WinForms → Web, .NET Core)
+- Backend architecture & performance optimization
+- API-first systems & real-time dashboards
+- Process automation and data workflows
 
 ---
 
 ## What I build
 
-- **Enterprise-grade web systems** with .NET Core, Laravel & modern frontend frameworks  
-- **Real-time dashboards** for financial and operational decision-making  
-- **Scalable APIs** with clean architecture and long-term maintainability  
-- **UX-driven engineering**, beyond visual design
+- **Enterprise-grade web systems** with .NET Core and modern frontend frameworks
+- **High-performance APIs** designed for scalability and long-term maintainability
+- **Real-time dashboards** for financial and operational decision-making
+- **UX-aware engineering**, where usability and performance go together
 
 ---
 
 ## Tech stack
 
+### Backend & Core Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,vue,js,ts,tailwind,react,php,python,kotlin,postgres,mysql,aws,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,php,python,kotlin&perline=8" />
+</p>
+
+### Databases & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql&perline=8" />
+</p>
+
+### Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,react,tailwind&perline=8" />
+</p>
+
+### DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git&perline=8" />
 </p>
 
 ---
 
 ## Featured projects
 
-- **Legacy ERP modernization**  
-  WinForms → Web platform using **.NET Core + Vue.js**, reducing maintenance cost ~35%  
-  *(private repo – documented case study available)*
+- **Enterprise ERP Modernization**
+  End-to-end migration from WinForms to a modern web platform using **.NET Core + Vue.js**.  
+  Achieved ~35% reduction in maintenance costs, major performance gains, and modular scalability.  
+  *(Private repository – detailed technical case study available on request)*
 
-- **Financial Dashboard**  
-  Real-time analytics with **ASP.NET Core APIs + data visualization**, eliminating manual reporting
+- **Financial Dashboard Platform**
+  Real-time financial analytics built with **ASP.NET Core APIs**, replacing Excel-based reporting and eliminating 20+ hours/month of manual work.
 
-- **Portfolio**  
-  https://github.com/cagr1/portfolio  
-  Modern personal website focused on performance and UX
-
+- **Developer Portfolio**
+  Personal website focused on performance, clean UI, and modern frontend practices.  
+  https://github.com/cagr1/portfolio
 ---
 
 
@@ -77,6 +92,9 @@ I work at the intersection of **engineering, performance, and UX**, building sys
   <a href="https://github.com/cagr1">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
   </a>
+ <a href="https://www.linkedin.com/in/carlos-gallardo-5282a0121">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://x.com/CarlosGallar85">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
